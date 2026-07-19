@@ -1,0 +1,184 @@
+{
+  "personal": {
+    "name": "Don Dashitha Madhukara Jayasingha",
+    "title": "Final Year IT Undergraduate | Process Analyst at HCLTech | Software Developer",
+    "bio": "A results-driven IT undergraduate and Process Analyst with experience in data analytics, software engineering, and process optimization. Bridging the gap between technical innovation and business efficiency.",
+    "photoUrl": "/profile.jpg",
+    "cvUrl": "#",
+    "contact": {
+      "email": "dashitha.jayasinghe@example.com",
+      "phone": "+94 77 123 4567",
+      "linkedin": "https://linkedin.com/in/dashithajayasingha",
+      "github": "https://github.com/dashithajayasingha",
+      "whatsapp": "https://wa.me/94771234567"
+    }
+  },
+  "about": {
+    "intro": "I am a highly motivated final-year Information Technology undergraduate student at Sri Lanka Institute of Information Technology (SLIIT), specializing in Software Engineering and Data Analytics. Alongside my academic journey, I work as a Process Analyst at HCLTech, where I apply analytical frameworks, automate workflows, and improve operational metrics.",
+    "education": "SLIIT - BSc (Hons) in Information Technology (Expected Graduation: 2027)",
+    "careerGoals": "To leverage my dual expertise in process engineering and software development to build intelligent, scalable software solutions and machine learning systems that drive business transformation.",
+    "interests": [
+      "Machine Learning & Federated Learning",
+      "Data Science & Predictive Analytics",
+      "Full-stack Web Applications",
+      "Workflow Automation & Process Optimization"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        { "name": "Java", "level": 85 },
+        { "name": "Python", "level": 90 },
+        { "name": "JavaScript (ES6+)", "level": 80 }
+      ]
+    },
+    {
+      "category": "Web Frameworks",
+      "items": [
+        { "name": "React", "level": 80 },
+        { "name": "Node.js", "level": 75 },
+        { "name": "FastAPI", "level": 85 },
+        { "name": "Express.js", "level": 75 }
+      ]
+    },
+    {
+      "category": "Databases & Analytics",
+      "items": [
+        { "name": "MongoDB", "level": 80 },
+        { "name": "MySQL", "level": 85 },
+        { "name": "Power BI", "level": 90 },
+        { "name": "Data Analytics", "level": 85 }
+      ]
+    },
+    {
+      "category": "AI/ML & Advanced Tech",
+      "items": [
+        { "name": "Machine Learning", "level": 80 },
+        { "name": "Federated Learning", "level": 75 },
+        { "name": "Git & GitHub", "level": 90 }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "HCLTech",
+      "role": "Process Analyst",
+      "period": "2024 - Present",
+      "description": "Analyze operations, manage reporting structures, and identify efficiency bottlenecks.",
+      "points": [
+        "Specialized in Revenue Cycle Management (RCM) workflows, accelerating claim audits and reducing delays by 15%.",
+        "Engineered custom Power BI dashboards for operational claims analysis, providing stakeholders with real-time actionable insights.",
+        "Automated recurring data aggregation and reporting routines, saving over 12 hours of manual effort per week.",
+        "Led process improvement workshops aligning operational workflows with international compliance standards."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "SmartCost",
+      "description": "An AI-powered Business Performance Prediction System tailored for Micro-SMEs to forecast margins, operational costs, and growth indexes.",
+      "category": "Machine Learning / SaaS",
+      "techStack": ["Python", "FastAPI", "React", "Scikit-Learn", "MongoDB"],
+      "githubUrl": "https://github.com/dashithajayasingha/smartcost",
+      "demoUrl": "https://smartcost-demo.example.com",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80",
+      "achievements": [
+        "Achieved 94.2% accuracy in operational cost forecasting using random forest regressors.",
+        "Created an intuitive dashboard presenting interactive cash-flow simulations for micro-business owners.",
+        "Implemented secure JWT user authentication and automated report exports in PDF/XLS formats."
+      ]
+    },
+    {
+      "id": "proj-2",
+      "title": "Smart Order Recommendation System",
+      "description": "A deep-learning based recommendation engine designed for retail inventories to optimize warehouse distributions and suggest order sizes.",
+      "category": "Data Science / Retail",
+      "techStack": ["Python", "TensorFlow", "FastAPI", "MySQL", "React"],
+      "githubUrl": "https://github.com/dashithajayasingha/order-recommendation",
+      "demoUrl": "https://order-recommendation.example.com",
+      "imageUrl": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=600&q=80",
+      "achievements": [
+        "Reduced warehouse order inaccuracies by 22% using custom collaborative filtering algorithms.",
+        "Built dynamic data pipelines fetching inventory logs, reducing calculation latency down to less than 200ms."
+      ]
+    },
+    {
+      "id": "proj-3",
+      "title": "Federated Learning IDS for Smart Home IoT",
+      "description": "A privacy-preserving Intrusion Detection System utilizing Federated Learning to detect anomalous network packets across IoT edge devices without sharing raw data.",
+      "category": "Cybersecurity / AI",
+      "techStack": ["Python", "PySyft", "IoT Protocols", "Flask", "React"],
+      "githubUrl": "https://github.com/dashithajayasingha/federated-ids-iot",
+      "demoUrl": "https://federated-ids.example.com",
+      "imageUrl": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+      "achievements": [
+        "Engineered decentralized neural network aggregation, achieving 97.6% threat detection rate.",
+        "Ensured zero raw network log leaks, adhering to strict GDPR and local data privacy policies."
+      ]
+    }
+  ],
+  "research": [
+    {
+      "id": "res-1",
+      "title": "Privacy-Preserving Network Threat Detection in Smart Homes via Federated Learning",
+      "authors": "Jayasingha, D. D. M., et al.",
+      "type": "Conference Paper",
+      "venue": "IEEE International Conference on Advanced IT Applications",
+      "publicationDate": "2026",
+      "description": "Explores decentralized model updates and security protocols under modern IoT device environments.",
+      "pdfUrl": "#"
+    },
+    {
+      "id": "res-2",
+      "title": "Machine Learning for Cost Projections in Micro-SMEs: SmartCost Framework",
+      "authors": "Jayasingha, D. D. M.",
+      "type": "Journal Paper",
+      "venue": "International Journal of Computational Business Intelligence",
+      "publicationDate": "2025",
+      "description": "Presents empirical results of using gradient-boosting algorithms for predicting overhead costs of micro-SMEs in South Asia.",
+      "pdfUrl": "#"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "cert-1",
+      "name": "Google Data Analytics Professional Certificate",
+      "issuer": "Google",
+      "year": "2025",
+      "previewUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "cert-2",
+      "name": "IBM AI Engineering Specialist",
+      "issuer": "IBM",
+      "year": "2025",
+      "previewUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": "cert-3",
+      "name": "Microsoft Certified: Azure Data Scientist Associate",
+      "issuer": "Microsoft",
+      "year": "2026",
+      "previewUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=600&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "name": "Senior Operations Manager",
+      "role": "Operational Excellence Lead",
+      "company": "HCLTech",
+      "message": "Dashitha is exceptional at understanding process bottlenecks and translating them into robust reporting structures. His analytics work helped our team reduce claim resolution times significantly."
+    },
+    {
+      "id": "test-2",
+      "name": "SLIIT Project Supervisor",
+      "role": "Senior Lecturer / Faculty of Computing",
+      "company": "SLIIT",
+      "message": "An outstanding student researcher who showed exceptional engineering skills in developing the Federated Learning Intrusion Detection System. His dedication to academic rigor is highly commendable."
+    }
+  ]
+}
